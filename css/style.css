@@ -1,0 +1,5 @@
+.custom-nav-item:hover{
+    background-color: purple;
+    border: solid purple;
+    border-radius: 10px;
+}
